@@ -122,7 +122,7 @@ Material:
     - _TranslucencyViewDependency: 0.7
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _TranslucencyColor: {r: 0.73, g: 0.85, b: 0.41, a: 1}
+    - _TranslucencyColor: {r: 0.5294118, g: 0.1868512, b: 0.19373998, a: 1}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
 --- !u!23 &23110837213208450
@@ -308,7 +308,7 @@ MonoBehaviour:
   m_Name: Tree Data
   m_EditorClassIdentifier: 
   _uniqueID: 5
-  materialHash: 31d6cfe0d16ae931b73c59d7e0c089c0-583008256
+  materialHash: f86f176089a7646164077a4ec2b1fa66-583008256
   root:
     _uniqueID: 1
     seed: 1234
@@ -484,7 +484,7 @@ MonoBehaviour:
     childGroupIDs: 
     lodQualityMultiplier: 1
     geometryMode: 0
-    materialBranch: {fileID: 0}
+    materialBranch: {fileID: 2100000, guid: d317d33b75abfdb4ab658c6db76d281e, type: 2}
     materialBreak: {fileID: 0}
     materialFrond: {fileID: 0}
     height: {x: 10, y: 15}
